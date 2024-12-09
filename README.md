@@ -1,2 +1,2 @@
-# tareas.render
-API Rest de Tareas con Python
+# tareas-render
+api rest con django para tareas
